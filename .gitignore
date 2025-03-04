@@ -1,0 +1,41 @@
+# Node modules
+node_modules/
+
+# Build directories
+build/
+dist/
+
+# Logs
+logs/
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Ignore all files in the root directory
+/*
+
+# Allow specific files
+!/.gitignore
+!/src/
+!/public/
+!/package.json
+!/package-lock.json
+!/tsconfig.json
+!/next.config.js
+!/README.md 
