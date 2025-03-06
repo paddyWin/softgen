@@ -38,4 +38,5 @@ coverage/
 !/package-lock.json
 !/tsconfig.json
 !/next.config.js
-!/README.md 
+!/README.md
+!/app/ 
